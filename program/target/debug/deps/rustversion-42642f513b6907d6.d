@@ -1,0 +1,20 @@
+/home/so/token-wrap/program/target/debug/deps/librustversion-42642f513b6907d6.so: /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/lib.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/attr.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/bound.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/constfn.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/date.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/error.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/expand.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/expr.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/iter.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/release.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/time.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/token.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/version.rs /home/so/token-wrap/program/target/debug/build/rustversion-013bb93dca91ba3a/out/version.expr
+
+/home/so/token-wrap/program/target/debug/deps/rustversion-42642f513b6907d6.d: /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/lib.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/attr.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/bound.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/constfn.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/date.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/error.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/expand.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/expr.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/iter.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/release.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/time.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/token.rs /home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/version.rs /home/so/token-wrap/program/target/debug/build/rustversion-013bb93dca91ba3a/out/version.expr
+
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/lib.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/attr.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/bound.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/constfn.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/date.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/error.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/expand.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/expr.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/iter.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/release.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/time.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/token.rs:
+/home/so/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.12/src/version.rs:
+/home/so/token-wrap/program/target/debug/build/rustversion-013bb93dca91ba3a/out/version.expr:
+
+# env-dep:OUT_DIR=/home/so/token-wrap/program/target/debug/build/rustversion-013bb93dca91ba3a/out
